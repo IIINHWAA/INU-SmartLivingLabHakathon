@@ -8,7 +8,7 @@ Incheon National University SmartLivingLab Hakathon 대상
 <br><br>
 [sunni3722](https://github.com/sunni3722)
 <br><br>
-[inhwa711](https://github.com/Inhwa711)
+[IIINHWAA](https://github.com/IIINHWAA)
 
 ## Model Download
 
