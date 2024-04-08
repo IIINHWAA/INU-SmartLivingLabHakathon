@@ -3,13 +3,6 @@
 ## Description
 Incheon National University SmartLivingLab Hakathon 대상
 
-## Member
-[anima0729](https://github.com/anima0729)
-<br><br>
-[sunni3722](https://github.com/sunni3722)
-<br><br>
-[IIINHWAA](https://github.com/IIINHWAA)
-
 ## Image Processing 
 ![image](./INU-SmartLivingLabHakathon-main/image/image1.png)
 ![image](./INU-SmartLivingLabHakathon-main/image/image2.png)
